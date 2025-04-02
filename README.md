@@ -68,3 +68,8 @@ man-city-dashboard/ <br>
 │   ├─ js/ (Frontend scripts) <br>
 │── views/ <br>
 │   ├─ index.html (Main UI) <br>
+
+### Contact & Contributions
+💼 Author: Your Name (LinkedIn) <br>
+📩 Email: your@email.com <br>
+🤝 Contributions: Open to feature suggestions & pull requests! <br>
