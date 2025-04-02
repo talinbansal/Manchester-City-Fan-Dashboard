@@ -45,3 +45,14 @@ Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match
   node server.js <br>
 
 #### The app will run on http://localhost:5001.
+
+### API Endpoints
+- **GET /api/team_standings – Fetches team standings.**
+
+- **GET /api/top_scorers – Retrieves Manchester City's top scorers.**
+
+- **GET /api/squad – Lists all squad members.**
+
+- **GET /api/matches – Fetches upcoming and live matches.**
+
+- **GET /api/highlights – Returns YouTube links for recent match highlights.**
