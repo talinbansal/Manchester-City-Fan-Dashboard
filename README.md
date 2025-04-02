@@ -64,10 +64,10 @@ man-city-dashboard/ <br>
 │── .env <br>
 │── public/ <br>
 │   ├─ assets/ (Images & logos) <br>
-│   ├─ css/ (Stylesheets) <br>
-│   ├─ js/ (Frontend scripts) <br>
+│   │── css/ (Stylesheets) <br>
+│   │── js/ (Frontend scripts) <br>
 │── views/ <br>
-│   ├─ index.html (Main UI) <br>
+│   │── index.ejs (Main UI) <br>
 
 ### Contact & Contributions
 💼 Author: Talin Bansal (LinkedIn) <br>
