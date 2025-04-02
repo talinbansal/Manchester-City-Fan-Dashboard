@@ -70,6 +70,6 @@ man-city-dashboard/ <br>
 │   ├─ index.html (Main UI) <br>
 
 ### Contact & Contributions
-💼 Author: Your Name (LinkedIn) <br>
-📩 Email: your@email.com <br>
+💼 Author: Talin Bansal (LinkedIn) <br>
+📩 Email: tbansal@uwaterloo.ca <br>
 🤝 Contributions: Open to feature suggestions & pull requests! <br>
