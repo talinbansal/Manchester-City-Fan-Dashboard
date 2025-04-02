@@ -56,3 +56,15 @@ Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match
 - **GET /api/matches – Fetches upcoming and live matches.**
 
 - **GET /api/highlights – Returns YouTube links for recent match highlights.**
+
+### Project Structure
+man-city-dashboard/
+│── server.js
+│── package.json
+│── .env
+│── public/
+│   ├── assets/ (Images & logos)
+│   ├── css/ (Stylesheets)
+│   ├── js/ (Frontend scripts)
+│── views/
+│   ├── index.html (Main UI)
