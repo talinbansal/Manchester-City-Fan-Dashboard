@@ -20,7 +20,10 @@ Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match
   Displays top goal scorers for Manchester City players.  
 
 - **Upcoming Matches**  
-  Provides match schedules with date and time.  
+  Provides match schedules with date and time.
+
+  - **Live Matches**  
+  Provides real-time updates on ongoing match scores and live time.
 
 - **Match Highlights**  
   Integrates YouTube API for easy access to match highlights. 
