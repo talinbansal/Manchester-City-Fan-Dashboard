@@ -13,10 +13,15 @@ API Calls: Axios
 Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match highlights)
 
 ### Features
-✅ Live Team Standings – Displays updated league and UCL standings.
-✅ Top Scorers – Fetches the latest goal stats for Manchester City players.
-✅ Squad Information – Provides details on the current squad.
-✅ Upcoming Matches – Lists scheduled fixtures with match details.
-✅ Live Scores – Updates users on ongoing match results.
-✅ Match Highlights – Embeds YouTube videos of recent games.
+- **Live Team Standings**  
+  Fetches real-time Premier League and UCL standings.  
+
+- **Top Scorers**  
+  Displays top goal scorers for Manchester City players.  
+
+- **Upcoming Matches**  
+  Provides match schedules with date and time.  
+
+- **Match Highlights**  
+  Integrates YouTube API for easy access to match highlights. 
 
