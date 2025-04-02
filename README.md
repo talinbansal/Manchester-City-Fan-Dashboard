@@ -10,7 +10,7 @@ Backend: Node.js, Express.js
 
 API Calls: Axios
 
-Data Sources: Football API (for real-time data), YouTube API (for match highlights)
+Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match highlights)
 
 ### Features
 ✅ Live Team Standings – Displays updated league and UCL standings.
