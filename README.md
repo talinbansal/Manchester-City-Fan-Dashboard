@@ -28,3 +28,20 @@ Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match
 - **Match Highlights**  
   Integrates YouTube API for easy access to match highlights. 
 
+### Installation & Setup
+- **Clone the Repository**
+git clone https://github.com/yourusername/man-city-dashboard.git <br>
+cd man-city-dashboard <br>
+
+- **Install Dependencies**
+npm install <br>
+
+- **Set Up Environment Variables**
+##### Create a .env file in the root directory and add:
+API_KEY=your_football_api_key <br>
+YOUTUBE_API_KEY=your_youtube_api_key <br>
+
+- **Start the Server**
+node server.js <br>
+
+The app will run on http://localhost:5001.
