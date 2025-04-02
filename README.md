@@ -22,7 +22,7 @@ Data Sources: Football-Data-Org API (for real-time data), YouTube API (for match
 - **Upcoming Matches**  
   Provides match schedules with date and time.
 
-  - **Live Matches**  
+- **Live Matches**  
   Provides real-time updates on ongoing match scores and live time.
 
 - **Match Highlights**  
