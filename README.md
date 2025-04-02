@@ -63,7 +63,7 @@ man-city-dashboard/ <br>
 │── package.json <br>
 │── .env <br>
 │── public/ <br>
-│   ├─ assets/ (Images & logos) <br>
+│   │── assets/ (Images & logos) <br>
 │   │── css/ (Stylesheets) <br>
 │   │── js/ (Frontend scripts) <br>
 │── views/ <br>
